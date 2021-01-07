@@ -101,7 +101,7 @@ class Header5 extends Component {
                           </Link>
                           <ul className="sub-menu">
                             <li>
-                              <Link to={'./about-1'} className="dez-page">
+                              <Link to={'./about-us'} className="dez-page">
                                 About Us 1
                               </Link>
                             </li>

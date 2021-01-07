@@ -8,25 +8,6 @@ class Header1 extends Component {
     return (
       <>
         <header className="site-header header-transparent mo-left">
-          {/* <div className="top-bar">
-                        <div className="container">
-                            <div className="row d-flex justify-content-between">
-                                <div className="dlab-topbar-left">
-                                    <ul>
-                                        <li><i className="flaticon-phone-call m-r5"></i> 001 1234 6789</li>
-                                        <li><i className="ti-location-pin m-r5"></i> 6701 Democracy Blvd, Suite 300, USA</li>
-                                    </ul>
-                                </div>
-                                <div className="dlab-topbar-right">
-                                    <ul>
-                                        <li><i className="ti-skype m-r5"></i> Agency.software</li>
-                                        <li><i className="ti-email m-r5"></i> info@example.com</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div> */}
-
           <div className="sticky-header main-bar-wraper navbar-expand-lg">
             <div className="main-bar clearfix ">
               <div className="container clearfix">
@@ -69,20 +50,9 @@ class Header1 extends Component {
                   id="navbarNavDropdown"
                 >
                   <ul className="nav navbar-nav">
-                    {/* <li className="active"><Link to={'#'}><span className="ti-home"></span> <i className="fa fa-chevron-down"></i></Link>
-                                            <ul className="sub-menu">
-                                                <li><Link to={'./'} className="dez-page">Home 1</Link></li>
-                                                <li><Link to={'./index-2'} className="dez-page">Home 2</Link></li>
-                                                <li><Link to={'./index-3'} className="dez-page">Home 3</Link></li>
-                                                <li><Link to={'./index-4'} className="dez-page">Home 4</Link></li>
-                                       s         <li><Link to={'./index-5'} className="dez-page">Home 5</Link></li>
-                                                <li><Link to={'./index-6'} className="dez-page">Home 6 <span className="new-page">New</span></Link></li>
-                                                <li><Link to={'./index-7'} className="dez-page">Home 7 <span className="new-page">New</span></Link></li>
-                                            </ul>
-                                        </li> */}
                     <li>
                       {' '}
-                      <Link to={'./about-1'}>About Us</Link>
+                      <Link to={'./about-us'}>About Us</Link>
                     </li>
                     <li>
                       <Link to={'#'}>
@@ -205,23 +175,7 @@ class Header1 extends Component {
                         Discover <i className="fa fa-chevron-down"></i>
                       </Link>
                       <ul className="sub-menu">
-                        {/* <li>
-                          <Link to={'#'}>
-                            About Us <i className="fa fa-angle-right"></i>
-                          </Link>
-                          <ul className="sub-menu">
-                            <li>
-                              <Link to={'./about-1'} className="dez-page">
-                                About Us 1
-                              </Link>
-                            </li>
-                            <li>
-                              <Link to={'./about-2'} className="dez-page">
-                                About Us 2
-                              </Link>
-                            </li>
-                          </ul>
-                        </li> */}
+    
                         <li>
                           <Link to={'#'}>
                             New Zealand <i className="fa fa-angle-right"></i>
@@ -231,22 +185,8 @@ class Header1 extends Component {
                               <Link to={'./about-2'} className="dez-page">
                                 Northland
                               </Link>
-                              {/* <ul className="sub-menu">
-                                <li>
-                                  <Link to={'./error-403'} className="dez-page">
-                                    Queensland
-                                  </Link>
-                                </li>
-
-                                <li>
-                                  <Link to={'./error-405'} className="dez-page">
-                                    New South Wales
-                                  </Link>
-                                </li>
-                              </ul> */}
+                           
                             </li>
-
-                            {/* <li><Link to={'./error-404'} className="dez-page">Error 404</Link></li> */}
                             <li>
                               <Link to={'./error-405'} className="dez-page">
                                 Auckland
@@ -334,22 +274,8 @@ class Header1 extends Component {
                               <Link to={'./error-403'} className="dez-page">
                                 Queensland
                               </Link>
-                              {/* <ul className="sub-menu">
-                                <li>
-                                  <Link to={'./error-403'} className="dez-page">
-                                    Queensland
-                                  </Link>
-                                </li>
-
-                                <li>
-                                  <Link to={'./error-405'} className="dez-page">
-                                    New South Wales
-                                  </Link>
-                                </li>
-                              </ul> */}
+                           
                             </li>
-
-                            {/* <li><Link to={'./error-404'} className="dez-page">Error 404</Link></li> */}
                             <li>
                               <Link to={'./error-405'} className="dez-page">
                                 New South Wales

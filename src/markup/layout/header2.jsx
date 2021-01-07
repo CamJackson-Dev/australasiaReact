@@ -59,12 +59,6 @@ class Header2 extends Component {
                   <span></span>
                 </button>
 
-                {/* <div className="extra-nav">
-                                    <div className="extra-cell">
-                                        <Link to={'./contact'} className="dez-page site-button primary">Contact Us </Link>
-                                    </div>
-                                </div> */}
-
                 <div
                   className="header-nav navbar-collapse collapse justify-content-end"
                   id="navbarNavDropdown"
@@ -124,7 +118,7 @@ class Header2 extends Component {
                           </Link>
                           <ul className="sub-menu">
                             <li>
-                              <Link to={'./about-1'} className="dez-page">
+                              <Link to={'./about-us'} className="dez-page">
                                 About Us 1
                               </Link>
                             </li>

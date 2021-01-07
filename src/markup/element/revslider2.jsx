@@ -172,9 +172,7 @@ class ReactRevSlider2 extends Component {
                           fontFamily: "'Montserrat',sans-serif",
                         }}
                       >
-                        It is a long established fact that a reader will be
-                        distracted by the readable content of a page when
-                        looking at its layout.
+                        Welcome to the Pacific Treasure.
                       </div>
 
                       {/* <!-- LAYER NR. 4 --> */}
@@ -230,7 +228,7 @@ class ReactRevSlider2 extends Component {
                       {/* <!-- LAYER NR. 5 --> */}
                       <Link
                         className="tp-caption rev-btn   tc-btnshadow"
-                        href="#"
+                        href=""
                         target="_blank"
                         id="slide-101-layer-13"
                         data-x="['center','center','center','center']"
@@ -427,9 +425,7 @@ class ReactRevSlider2 extends Component {
                           fontFamily: "'Montserrat',sans-serif",
                         }}
                       >
-                        It is a long established fact that a reader will be
-                        distracted by the readable content of a page when
-                        looking at its layout.
+                        Welcome to the Pacific Treasure.
                       </div>
 
                       {/* <!-- LAYER NR. 4 --> */}

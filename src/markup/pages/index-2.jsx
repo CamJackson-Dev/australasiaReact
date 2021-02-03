@@ -43,7 +43,7 @@ class Index2 extends Component {
                   <div className="icon-bx-wraper bx-style-1 p-a30 center fly-box-ho">
                     <div className="icon-sm m-b20">
                       {' '}
-                      <a href="#" className="icon-cell">
+                      <a href="/#" className="icon-cell">
                         <i className="ti-headphone-alt"></i>
                       </a>{' '}
                     </div>
@@ -68,7 +68,7 @@ class Index2 extends Component {
                   <div className="icon-bx-wraper bx-style-1 p-a30 center fly-box-ho">
                     <div className="icon-sm m-b20">
                       {' '}
-                      <a href="#" className="icon-cell">
+                      <a href="/#" className="icon-cell">
                         <i className="ti-ruler-pencil"></i>
                       </a>{' '}
                     </div>
@@ -93,7 +93,7 @@ class Index2 extends Component {
                   <div className="icon-bx-wraper bx-style-1 p-a30 center fly-box-ho">
                     <div className="icon-sm m-b20">
                       {' '}
-                      <a href="#" className="icon-cell text-primary">
+                      <a href="/#" className="icon-cell text-primary">
                         <i className="ti-desktop"></i>
                       </a>{' '}
                     </div>
@@ -220,7 +220,7 @@ class Index2 extends Component {
                         <div className="icon-bx-wraper  left">
                           <div className="icon-sm text-primary m-b20">
                             {' '}
-                            <a href="#" className="icon-cell text-primary">
+                            <a href="/#" className="icon-cell text-primary">
                               <i className="ti-desktop"></i>
                             </a>{' '}
                           </div>
@@ -236,7 +236,7 @@ class Index2 extends Component {
                         <div className="icon-bx-wraper  left">
                           <div className="icon-sm text-primary m-b20">
                             {' '}
-                            <a href="#" className="icon-cell text-primary">
+                            <a href="/#" className="icon-cell text-primary">
                               <i className="ti-ruler-pencil"></i>
                             </a>{' '}
                           </div>
@@ -252,7 +252,7 @@ class Index2 extends Component {
                         <div className="icon-bx-wraper  left">
                           <div className="icon-sm text-primary m-b20">
                             {' '}
-                            <a href="#" className="icon-cell text-primary">
+                            <a href="/#" className="icon-cell text-primary">
                               <i className="ti-palette"></i>
                             </a>{' '}
                           </div>
@@ -268,7 +268,7 @@ class Index2 extends Component {
                         <div className="icon-bx-wraper  left">
                           <div className="icon-sm text-primary m-b20">
                             {' '}
-                            <a href="#" className="icon-cell text-primary">
+                            <a href="/#" className="icon-cell text-primary">
                               <i className="ti-file"></i>
                             </a>{' '}
                           </div>
@@ -497,37 +497,37 @@ class Index2 extends Component {
                 <ul className="filters" data-toggle="buttons">
                   <li data-filter="" className="btn active">
                     <input type="radio" />
-                    <a href="#" className="site-button-secondry radius-sm">
+                    <a href="/#" className="site-button-secondry radius-sm">
                       <span>All</span>
                     </a>
                   </li>
                   <li data-filter="web" className="btn">
                     <input type="radio" />
-                    <a href="#" className="site-button-secondry radius-sm">
+                    <a href="/#" className="site-button-secondry radius-sm">
                       <span>Web</span>
                     </a>
                   </li>
                   <li data-filter="advertising" className="btn">
                     <input type="radio" />
-                    <a href="#" className="site-button-secondry radius-sm">
+                    <a href="/#" className="site-button-secondry radius-sm">
                       <span>Advertising</span>
                     </a>
                   </li>
                   <li data-filter="branding" className="btn">
                     <input type="radio" />
-                    <a href="#" className="site-button-secondry radius-sm">
+                    <a href="/#" className="site-button-secondry radius-sm">
                       <span>Branding</span>
                     </a>
                   </li>
                   <li data-filter="design" className="btn">
                     <input type="radio" />
-                    <a href="#" className="site-button-secondry radius-sm">
+                    <a href="/#" className="site-button-secondry radius-sm">
                       <span>Design</span>
                     </a>
                   </li>
                   <li data-filter="photography" className="btn">
                     <input type="radio" />
-                    <a href="#" className="site-button-secondry radius-sm">
+                    <a href="/#" className="site-button-secondry radius-sm">
                       <span>Photography</span>
                     </a>
                   </li>

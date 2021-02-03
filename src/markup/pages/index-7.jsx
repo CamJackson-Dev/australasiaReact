@@ -4,8 +4,9 @@ import Header1 from '../layout/header1';
 import Footer6 from '../layout/footer6';
 import ReactRevSlider7 from '../element/revslider7';
 import ClientCarousel2 from '../element/client-carousel2';
+import ReactPlayer from 'react-player/youtube';
 
-class Blank extends Component {
+class Index7 extends Component {
   componentDidMount() {
     window.dz_rev_slider_7();
     window.Agency.load();
@@ -31,12 +32,11 @@ class Blank extends Component {
                   </div>
                   <div className="icon-content">
                     <h3 className="dez-tilte">
-                      <span className="font-weight-300">Design & </span> Build
-                      Project
+                      <span className="font-weight-300"></span>PARTNERS
                     </h3>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                      sed diam nonummy nibh euismod...
+                      We are currently looking for Companies that are interested
+                      in locking arms with us.
                     </p>
                   </div>
                 </div>
@@ -48,24 +48,13 @@ class Blank extends Component {
                   </div>
                   <div className="icon-content">
                     <h3 className="dez-tilte">
-                      <span className="font-weight-300">Building & </span>
-                      Renovation
+                      <span className="font-weight-300"></span>
+                      INVESTORS
                     </h3>
-                    <ul className="list-arrow-right m-b0">
-                      <li>
-                        <i className="fa fa-arrow-right"></i>Prouct Developoment
-                      </li>
-                      <li>
-                        <i className="fa fa-arrow-right"></i>Resources Hiring
-                      </li>
-                      <li>
-                        <i className="fa fa-arrow-right"></i>Business
-                        Development
-                      </li>
-                      <li>
-                        <i className="fa fa-arrow-right"></i>Product Analysis
-                      </li>
-                    </ul>
+                    <p>
+                      We are currently seeking investors in the Project who see
+                      our vision and would like to support our mission.
+                    </p>
                   </div>
                 </div>
                 <div className="icon-bx-wraper p-l50 p-r30 col-md-4 bg-white col-lg-4 p-tb30">
@@ -76,12 +65,13 @@ class Blank extends Component {
                   </div>
                   <div className="icon-content">
                     <h3 className="dez-tilte">
-                      <span className="font-weight-300">Handling & </span>
-                      Management
+                      <span className="font-weight-300"></span>
+                      CAREERS
                     </h3>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetuer adipiscing elit,
-                      sed diam nonummy nibh euismod...
+                      Now hiring. Positions Available - Marketing, Software
+                      Engineers, Social Media Manager. Submit your Resume if
+                      you're interested in joining our Team.
                     </p>
                   </div>
                 </div>
@@ -92,80 +82,19 @@ class Blank extends Component {
           {/* <!-- Our Services --> */}
           <div className="section-full content-inner-2 bg-white">
             <div className="container">
-              <div className="row">
+              <div className="row video">
                 <div className="col-lg-12 section-head text-center">
-                  <h5 className="title-small">Benefits</h5>
-                  <h2 className="title-head m-b0">Your Objective Choices</h2>
+                  <h5 className="title-small">Welcome to </h5>
+                  <h2 className="title-head m-b0">AUSTRALASIA.COM</h2>
                 </div>
-              </div>
-              <div className="row">
-                <div
-                  className="col-lg-4 col-md-4 col-sm-6 m-b30 wow fadeInUp"
-                  data-wow-delay="0.2s"
-                  data-wow-duration="1s"
-                >
-                  <div className="icon-bx-wraper our-service center">
-                    <div className="icon-lg text-primary m-b20">
-                      <a href="javascript:void(0);" className="icon-cell">
-                        <img src="images/icon/icon4.png" alt="" />
-                      </a>
-                    </div>
-                    <div className="icon-content p-lr50">
-                      <h5 className="dez-tilte text-uppercase">Experience</h5>
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing
-                        elit, sed do eiusmod tempor incididunt ut labore.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div
-                  className="col-lg-4 col-md-4 col-sm-6 m-b30 wow fadeInUp"
-                  data-wow-delay="0.4s"
-                  data-wow-duration="1s"
-                >
-                  <div className="icon-bx-wraper our-service center">
-                    <div className="icon-lg text-primary m-b20">
-                      <a href="javascript:void(0);" className="icon-cell">
-                        <img src="images/icon/icon5.png" alt="" />
-                      </a>
-                    </div>
-                    <div className="icon-content p-lr50">
-                      <h5 className="dez-tilte text-uppercase">Future</h5>
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing
-                        elit, sed do eiusmod tempor incididunt ut labore.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div
-                  className="col-lg-4 col-md-4 col-sm-12 m-b30 wow fadeInUp"
-                  data-wow-delay="0.6s"
-                  data-wow-duration="1s"
-                >
-                  <div className="icon-bx-wraper our-service center">
-                    <div className="icon-lg text-primary m-b20">
-                      <a href="javascript:void(0);" className="icon-cell">
-                        <img src="images/icon/icon6.png" alt="" />
-                      </a>
-                    </div>
-                    <div className="icon-content p-lr50">
-                      <h5 className="dez-tilte text-uppercase">passion</h5>
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing
-                        elit, sed do eiusmod tempor incididunt ut labore.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-lg-12 m-t20 text-center">
-                  <a
-                    href="javascript:void(0);"
-                    className="site-button long-btn radius-xl shadow"
-                  >
-                    ORDER NOW
-                  </a>
+                <div className="video-container">
+                  <ReactPlayer
+                    className="react-player"
+                    controls
+                    url="https://www.https://www.youtube.com/watch?v=m-hc6Y0m_sA&t=2s.com/watch?v=ysz5S6PUM-U"
+                    width="100%"
+                    // height="100%"
+                  />
                 </div>
               </div>
             </div>
@@ -969,4 +898,4 @@ class Blank extends Component {
     );
   }
 }
-export default Blank;
+export default Index7;

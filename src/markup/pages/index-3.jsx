@@ -189,20 +189,20 @@ class Index3 extends Component {
                     <div className="dlab-box">
                       <div className="dlab-media dlab-img-overlay5">
                         {' '}
-                        <a href="#">
+                        <a href="/#">
                           <img src="images/blog/grid/pic1.jpg" alt="" />
                         </a>{' '}
                       </div>
                       <div className="dlab-info p-a30 border-1 bg-white">
                         <div className="icon-md text-primary m-b20">
                           {' '}
-                          <a href="#" className="icon-cell text-primary">
+                          <a href="/#" className="icon-cell text-primary">
                             <i className="flaticon-money"></i>
                           </a>{' '}
                           <div></div>
                         </div>
                         <h5 className="dlab-title m-t0">
-                          <a href="#">
+                          <a href="/#">
                             Business Planning, Strategy & Execution
                           </a>
                         </h5>
@@ -221,20 +221,20 @@ class Index3 extends Component {
                     <div className="dlab-box">
                       <div className="dlab-media dlab-img-overlay5">
                         {' '}
-                        <a href="#">
+                        <a href="/#">
                           <img src="images/blog/grid/pic2.jpg" alt="" />
                         </a>{' '}
                       </div>
                       <div className="dlab-info p-a30 border-1 bg-white">
                         <div className="icon-md text-primary m-b20">
                           {' '}
-                          <a href="#" className="icon-cell text-primary">
+                          <a href="/#" className="icon-cell text-primary">
                             <i className="flaticon-bar-chart"></i>
                           </a>{' '}
                           <div></div>
                         </div>
                         <h5 className="dlab-title m-t0">
-                          <a href="#">
+                          <a href="/#">
                             Financial Projections <br /> And Analysis
                           </a>
                         </h5>
@@ -253,20 +253,20 @@ class Index3 extends Component {
                     <div className="dlab-box">
                       <div className="dlab-media dlab-img-overlay5">
                         {' '}
-                        <a href="#">
+                        <a href="/#">
                           <img src="images/blog/grid/pic3.jpg" alt="" />
                         </a>{' '}
                       </div>
                       <div className="dlab-info p-a30 border-1 bg-white">
                         <div className="icon-md text-primary m-b20">
                           {' '}
-                          <a href="#" className="icon-cell text-primary">
+                          <a href="/#" className="icon-cell text-primary">
                             <i className="flaticon-notebook"></i>
                           </a>{' '}
                           <div></div>
                         </div>
                         <h5 className="dlab-title m-t0">
-                          <a href="#">International Business Opportunities</a>
+                          <a href="/#">International Business Opportunities</a>
                         </h5>
                         <p className="m-b15">
                           Lorem ipsum dolor Fusce varius euismod lacus eget
@@ -588,22 +588,22 @@ class Index3 extends Component {
                         <div className="dlab-divider bg-white mt-2 mb-2"></div>
                         <ul className="list-inline m-a0">
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-facebook"></i>
                             </a>
                           </li>
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-linkedin"></i>
                             </a>
                           </li>
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-instagram"></i>
                             </a>
                           </li>
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-twitter"></i>
                             </a>
                           </li>
@@ -622,22 +622,22 @@ class Index3 extends Component {
                         <div className="dlab-divider bg-white mt-2 mb-2"></div>
                         <ul className="list-inline m-a0">
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-facebook"></i>
                             </a>
                           </li>
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-linkedin"></i>
                             </a>
                           </li>
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-instagram"></i>
                             </a>
                           </li>
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-twitter"></i>
                             </a>
                           </li>
@@ -656,22 +656,22 @@ class Index3 extends Component {
                         <div className="dlab-divider bg-white mt-2 mb-2"></div>
                         <ul className="list-inline m-a0">
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-facebook"></i>
                             </a>
                           </li>
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-linkedin"></i>
                             </a>
                           </li>
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-instagram"></i>
                             </a>
                           </li>
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-twitter"></i>
                             </a>
                           </li>
@@ -690,22 +690,22 @@ class Index3 extends Component {
                         <div className="dlab-divider bg-white mt-2 mb-2"></div>
                         <ul className="list-inline m-a0">
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-facebook"></i>
                             </a>
                           </li>
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-linkedin"></i>
                             </a>
                           </li>
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-instagram"></i>
                             </a>
                           </li>
                           <li>
-                            <a href="#" className="text-white">
+                            <a href="/#" className="text-white">
                               <i className="fa fa-twitter"></i>
                             </a>
                           </li>

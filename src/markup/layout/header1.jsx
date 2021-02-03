@@ -55,9 +55,9 @@ class Header1 extends Component {
                       <Link to={'./about-us'}>About Us</Link>
                     </li>
                     <li>
-                      <Link to={'#'}>
+                      {/* <Link to={'#'}>
                         Pages <i className="fa fa-chevron-down"></i>
-                      </Link>
+                      </Link> */}
                       <ul className="sub-menu">
                         <li>
                           <Link to={'#'} className="dez-page">
@@ -175,17 +175,15 @@ class Header1 extends Component {
                         Discover <i className="fa fa-chevron-down"></i>
                       </Link>
                       <ul className="sub-menu">
-    
                         <li>
-                          <Link to={'#'}>
+                          <Link to={'./about-nz'}>
                             New Zealand <i className="fa fa-angle-right"></i>
                           </Link>
                           <ul className="sub-menu">
                             <li>
-                              <Link to={'./about-2'} className="dez-page">
+                              <Link to={'./error-405'} className="dez-page">
                                 Northland
                               </Link>
-                           
                             </li>
                             <li>
                               <Link to={'./error-405'} className="dez-page">
@@ -266,7 +264,7 @@ class Header1 extends Component {
                           </ul>
                         </li>
                         <li>
-                          <Link to={'#'}>
+                          <Link to={'./about-aus'}>
                             Australia <i className="fa fa-angle-right"></i>
                           </Link>
                           <ul className="sub-menu">
@@ -274,7 +272,6 @@ class Header1 extends Component {
                               <Link to={'./error-403'} className="dez-page">
                                 Queensland
                               </Link>
-                           
                             </li>
                             <li>
                               <Link to={'./error-405'} className="dez-page">
@@ -315,7 +312,7 @@ class Header1 extends Component {
                           </ul>
                         </li>
                         <li>
-                          <Link to={'#'}>
+                          <Link to={'./about-png'}>
                             New Guinea <i className="fa fa-angle-right"></i>
                           </Link>
                           <ul className="sub-menu">

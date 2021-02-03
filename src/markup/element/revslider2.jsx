@@ -178,7 +178,7 @@ class ReactRevSlider2 extends Component {
                       {/* <!-- LAYER NR. 4 --> */}
                       <Link
                         className="tp-caption rev-btn   tc-btnshadow tp-rs-menulink"
-                        href="#"
+                        href="/#"
                         target="_blank"
                         id="slide-101-layer-12"
                         data-x="['center','center','center','center']"
@@ -431,7 +431,7 @@ class ReactRevSlider2 extends Component {
                       {/* <!-- LAYER NR. 4 --> */}
                       <Link
                         className="tp-caption rev-btn   tc-btnshadow tp-rs-menulink"
-                        href="#"
+                        href="/#"
                         target="_blank"
                         id="slide-102-layer-12"
                         data-x="['center','center','center','center']"

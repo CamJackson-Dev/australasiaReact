@@ -24,7 +24,7 @@ class ShortCounter extends Component {
                 <div className="breadcrumb-row">
                   <ul className="list-inline">
                     <li>
-                      <a href="#">Home</a>
+                      <a href="/#">Home</a>
                     </li>
                     <li>Counter</li>
                   </ul>

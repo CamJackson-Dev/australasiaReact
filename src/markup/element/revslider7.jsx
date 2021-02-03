@@ -179,7 +179,7 @@ class ReactRevSlider7 extends Component {
                       {/* <!-- LAYER NR. 4 --> */}
                       <Link
                         class="tp-caption rev-btn   tc-btnshadow tp-rs-menulink"
-                        to={'./about-us'}
+                        to={'./about-nz'}
                         target="_self"
                         id="slide-101-layer-12"
                         data-x="['center','center','center','center']"
@@ -229,8 +229,8 @@ class ReactRevSlider7 extends Component {
                       {/* <!-- LAYER NR. 5 --> */}
                       <Link
                         class="tp-caption rev-btn   tc-btnshadow"
-                        href="#"
-                        target="_blank"
+                        to="./about-nz"
+                        target="_self"
                         id="slide-101-layer-13"
                         data-x="['center','center','center','center']"
                         data-hoffset="['150','150','100','0']"
@@ -434,8 +434,8 @@ class ReactRevSlider7 extends Component {
                       {/* <!-- LAYER NR. 4 --> */}
                       <Link
                         class="tp-caption rev-btn   tc-btnshadow tp-rs-menulink"
-                        href="#"
-                        target="_blank"
+                        to="./about-aus"
+                        target="_self"
                         id="slide-102-layer-12"
                         data-x="['center','center','center','center']"
                         data-hoffset="['-150','-150','-110','0']"
@@ -484,8 +484,8 @@ class ReactRevSlider7 extends Component {
                       {/* <!-- LAYER NR. 10 --> */}
                       <Link
                         class="tp-caption rev-btn   tc-btnshadow"
-                        href=""
-                        target="_blank"
+                        to="./about-aus"
+                        target="_self"
                         id="slide-102-layer-13"
                         data-x="['center','center','center','center']"
                         data-hoffset="['150','150','100','0']"
@@ -686,10 +686,12 @@ class ReactRevSlider7 extends Component {
                       </div>
 
                       {/* <!-- LAYER NR. 4 --> */}
+
+                      {/* PNG ABOUT US */}
                       <Link
                         class="tp-caption rev-btn   tc-btnshadow tp-rs-menulink"
-                        href="#"
-                        target="_blank"
+                        to="./about-png"
+                        target="_self"
                         id="slide-103-layer-12"
                         data-x="['center','center','center','center']"
                         data-hoffset="['-150','-150','-110','0']"
@@ -736,10 +738,11 @@ class ReactRevSlider7 extends Component {
                       </Link>
 
                       {/* <!-- LAYER NR. 10 --> */}
+                      {/* THIS IS PNG */}
                       <Link
                         class="tp-caption rev-btn   tc-btnshadow"
-                        href=""
-                        target="_blank"
+                        to="./about-png"
+                        target="_self"
                         id="slide-103-layer-13"
                         data-x="['center','center','center','center']"
                         data-hoffset="['150','150','100','0']"

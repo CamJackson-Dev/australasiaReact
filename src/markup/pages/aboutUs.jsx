@@ -26,7 +26,7 @@ class About1 extends Component {
                 <div className="breadcrumb-row">
                   <ul className="list-inline">
                     <li>
-                      <a href="#">Home</a>
+                      <a href="/#">Home</a>
                     </li>
                     <li>About Us 1</li>
                   </ul>
@@ -134,7 +134,7 @@ class About1 extends Component {
                     <div className="icon-bx-wraper bx-style-1 p-a30 center">
                       <div className="icon-lg text-white m-b20">
                         {' '}
-                        <a href="#" className="icon-cell text-white">
+                        <a href="/#" className="icon-cell text-white">
                           <i className="flaticon-pen"></i>
                         </a>{' '}
                       </div>
@@ -151,7 +151,7 @@ class About1 extends Component {
                     <div className="icon-bx-wraper bx-style-1 p-a30 center">
                       <div className="icon-lg text-white m-b20">
                         {' '}
-                        <a href="#" className="icon-cell text-white">
+                        <a href="/#" className="icon-cell text-white">
                           <i className="flaticon-diamond"></i>
                         </a>{' '}
                       </div>
@@ -170,7 +170,7 @@ class About1 extends Component {
                     <div className="icon-bx-wraper bx-style-1 p-a30 center">
                       <div className="icon-lg text-white m-b20">
                         {' '}
-                        <a href="#" className="icon-cell text-white">
+                        <a href="/#" className="icon-cell text-white">
                           <i className="flaticon-devices"></i>
                         </a>{' '}
                       </div>
